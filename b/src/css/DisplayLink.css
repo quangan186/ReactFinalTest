@@ -1,0 +1,12 @@
+.result{
+    width: 40%;
+    margin: 50px auto;
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align: left;
+    padding: 30px 20px;
+}
+
+.result h3{
+    text-align: center;
+}
